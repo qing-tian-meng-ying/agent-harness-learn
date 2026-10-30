@@ -7,6 +7,8 @@
 [![Stars](https://img.shields.io/github/stars/rajeevraibhatia/agent-harness-evals?style=for-the-badge&color=yellow)](https://github.com/rajeevraibhatia/agent-harness-evals/stargazers)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
+**English** | [简体中文](README.zh-CN.md)
+
 **From ReAct loops to production eval harnesses.** 8 modules. Medium → Advanced. Interview prep included.
 
 *Part of [AI Courses](https://rajeevraibhatia.com/ai-courses) by [Rajeev Rai Bhatia](https://rajeevraibhatia.com)*
